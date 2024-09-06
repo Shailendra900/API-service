@@ -5,6 +5,7 @@ Dark-Mode
 
 
 ##Built with
+
 HTML5 markup
 CSS custom properties
 Angular
@@ -12,4 +13,5 @@ TypeScript
 Rest Countries API# API-service
 
 ##Users should be able to:
+
 Toggle the color scheme between light and dark mode (optional).
