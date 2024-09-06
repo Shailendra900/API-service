@@ -1,0 +1,28 @@
+<div class="heading">
+  <h1  class="but">Where in the World</h1>
+  <button (click)="toggleDarkMode()">Dark Mode</button>
+</div>
+<nav>
+  <div class="action">
+    <div><input type="text" placeholder="Search for a country"></div>
+    <button>Search</button>
+  </div>
+</nav>
+
+<div class="details">
+  <div class="countries">
+    <div class="all-details" *ngFor="let country of allCountries">
+      <div class="all" >
+        <div class="country-img ">
+          <img src="{{country.flags.png}}" alt="">
+        </div>
+        <div class="details">
+          <h1>{{country.name.common}}</h1>
+          <li><p>Population {{country.population}}</p></li>
+          <li><p>Region: {{country.region }}</p></li>
+          <li><p>Capital: {{country.capital}}</p></li>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
