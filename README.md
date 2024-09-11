@@ -1,6 +1,6 @@
 Countries API with color theme switcher
 ![image](https://github.com/user-attachments/assets/3dbe9d35-7551-45d9-a44e-be591dfc932c)
-Dark-Mode
+## Dark-Mode
 ![image](https://github.com/user-attachments/assets/8bc17463-e421-4f42-b37d-63f17f90bf82)
 
 
