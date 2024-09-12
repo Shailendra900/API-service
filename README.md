@@ -3,9 +3,9 @@
 ### Dark-Mode
 ![image](https://github.com/user-attachments/assets/8bc17463-e421-4f42-b37d-63f17f90bf82)
 ### Mobile Responsive
-![image](https://github.com/user-attachments/assets/c9df573b-ebed-4629-a66a-b3748a7c449f)
+![image](https://github.com/user-attachments/assets/6ce14741-befe-4374-9f44-67762185aad7)
 ### For iPad
-![image](https://github.com/user-attachments/assets/04a915d5-1f33-4213-8c7e-070eafa4aae8)
+![image](https://github.com/user-attachments/assets/183cf8b0-5216-4bcc-b281-edbb0eacadab)
 
 
 
